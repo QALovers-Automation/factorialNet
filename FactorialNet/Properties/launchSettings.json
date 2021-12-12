@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FactorialNet": {
+      "commandName": "Project",
+      "commandLineArgs": "4"
+    }
+  }
+}
