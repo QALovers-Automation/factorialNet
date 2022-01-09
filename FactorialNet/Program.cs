@@ -16,6 +16,8 @@ namespace FactorialNet
             BigInteger numberToGenerateFactorial;
             BigInteger factorial;
 
+            int a=23/0;
+
             if (args.Length != 1)
             {
                 log.Error("We need only one argument to generate the factorial. Example: 6");
