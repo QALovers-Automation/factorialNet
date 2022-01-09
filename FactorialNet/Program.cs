@@ -16,7 +16,8 @@ namespace FactorialNet
             BigInteger numberToGenerateFactorial;
             BigInteger factorial;
 
-            int a=23/0;
+            //Uncomment to generate fail on Jenkins
+            //int a=23/0;
 
             if (args.Length != 1)
             {
